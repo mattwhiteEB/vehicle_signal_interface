@@ -280,7 +280,7 @@ endif
 #
 # SUBDIRS += foo bar
 
-SUBDIRS += core api lua-interfaces python-interfaces
+SUBDIRS += core api
 
 #
 #    If there are any goals that should be added to the default list of goals
